@@ -9,3 +9,15 @@ background-position: center;
     margin: 0px;
     font-size: 23px;
 }
+
+.footer {
+    position: fixed;
+    background-color: bisque;
+    color: black;
+    bottom: 0;
+    width:100%
+}
+
+.instructions {
+    float:right;
+}
