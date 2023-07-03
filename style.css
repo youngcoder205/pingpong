@@ -21,3 +21,8 @@ background-position: center;
 .instructions {
     float:right;
 }
+
+#canvas {
+border: 5px solid white;
+border-radius: 20px;
+}
